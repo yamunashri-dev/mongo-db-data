@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ybattu\\source\\repos\\MongodbData\\MongodbData\\MongodbData.csproj": {}
+    "C:\\Users\\ybattu\\source\\repos\\mongo-db-data\\MongodbData\\MongodbData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ybattu\\source\\repos\\MongodbData\\MongodbData\\MongodbData.csproj": {
+    "C:\\Users\\ybattu\\source\\repos\\mongo-db-data\\MongodbData\\MongodbData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ybattu\\source\\repos\\MongodbData\\MongodbData\\MongodbData.csproj",
+        "projectUniqueName": "C:\\Users\\ybattu\\source\\repos\\mongo-db-data\\MongodbData\\MongodbData.csproj",
         "projectName": "MongodbData",
-        "projectPath": "C:\\Users\\ybattu\\source\\repos\\MongodbData\\MongodbData\\MongodbData.csproj",
+        "projectPath": "C:\\Users\\ybattu\\source\\repos\\mongo-db-data\\MongodbData\\MongodbData.csproj",
         "packagesPath": "C:\\Users\\ybattu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ybattu\\source\\repos\\MongodbData\\MongodbData\\obj\\",
+        "outputPath": "C:\\Users\\ybattu\\source\\repos\\mongo-db-data\\MongodbData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ybattu\\AppData\\Roaming\\NuGet\\NuGet.Config",
