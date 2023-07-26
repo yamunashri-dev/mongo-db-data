@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FEd9t8vB5Z26V/YJqJP2tTu8u6GOtkfmGHYEIW/KlN4=",
+  "Source": "MongodbData",
+  "BasePath": "_content/MongodbData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
